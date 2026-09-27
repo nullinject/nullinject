@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="88" viewBox="0 0 960 88" role="img" aria-labelledby="title">
-<title id="title">01 / SELECTED WORK</title>
-<rect width="960" height="88" fill="#07090b"/>
-<path d="M0 0h960M0 87h960" stroke="#263b3a"/>
-<rect width="4" height="88" fill="#63ffe1"/>
-<g font-family="monospace" font-size="32"><text x="26" y="56" fill="#63ffe1">01</text><text x="86" y="56" fill="#647e7a">/</text><text x="124" y="56" fill="#eef4f2" letter-spacing="3">SELECTED WORK</text></g>
-<path d="M724 43h58m9 0h100m-40 5h53" stroke="#63ffe1" opacity=".5"/>
-<path d="M919 34l10 10-10 10" fill="none" stroke="#63ffe1" stroke-width="2"/>
-</svg>
