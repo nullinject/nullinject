@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">nullinject — Void Prompt</title><desc id="desc">Dark terminal banner with violet orbital rings and a cyan command prompt.</desc>
+<defs>
+ <radialGradient id="halo"><stop stop-color="#7132be" stop-opacity=".35"/><stop offset="1" stop-color="#080a10" stop-opacity="0"/></radialGradient>
+ <linearGradient id="ink"><stop stop-color="#f1ecff"/><stop offset="1" stop-color="#a995d4"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8780b5" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="480" rx="16" fill="#080a10"/>
+<rect width="1280" height="480" rx="16" fill="url(#grid)"/>
+<ellipse cx="1005" cy="234" rx="360" ry="320" fill="url(#halo)"/>
+<g fill="none" stroke="#a184f4">
+ <circle cx="1005" cy="235" r="141" stroke-opacity=".2"/>
+ <circle cx="1005" cy="235" r="111" stroke-opacity=".45"/>
+ <ellipse cx="1005" cy="235" rx="181" ry="62" transform="rotate(-36 1005 235)" stroke-opacity=".6"/>
+ <ellipse cx="1005" cy="235" rx="181" ry="62" transform="rotate(36 1005 235)" stroke-opacity=".18"/>
+ <circle cx="1005" cy="235" r="78" fill="#080a10" stroke-opacity=".7"/>
+</g>
+<path d="M976 235h58m-29-29v58" stroke="#cbb4ff" stroke-width="1.5"/>
+<circle cx="1127" cy="135" r="4" fill="#65ead5"/>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace">
+ <text x="56" y="49" fill="#827b96" font-size="12" letter-spacing="2">VOID PROMPT / PERSONAL RESEARCH NODE</text>
+ <circle cx="1197" cy="44" r="4" fill="#65ead5"/><text x="1140" y="68" fill="#827b96" font-size="10" letter-spacing="1">SYS / 00</text>
+ <path d="M56 76H1224" stroke="#282333"/>
+ <text x="56" y="128" fill="#65ead5" font-size="15">λ enter the void_</text>
+ <text x="51" y="234" fill="url(#ink)" font-size="88" font-weight="700" letter-spacing="-6">nullinject</text>
+ <text x="57" y="280" fill="#a995d4" font-size="18" letter-spacing="7">VOID / PROMPT</text>
+ <text x="57" y="337" fill="#aaa5b9" font-size="16">Exploring the security boundaries of AI systems.</text>
+ <path d="M56 389H1224" stroke="#282333"/>
+ <text x="56" y="429" fill="#827b96" font-size="12" letter-spacing="2">01 / AI SECURITY</text>
+ <text x="348" y="429" fill="#827b96" font-size="12" letter-spacing="2">02 / DIGITAL FORENSICS</text>
+ <text x="700" y="429" fill="#827b96" font-size="12" letter-spacing="2">03 / SECURITY TOOLING</text>
+ <text x="1165" y="429" fill="#65ead5" font-size="18">[∅]</text>
+</g>
+</svg>
