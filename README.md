@@ -9,10 +9,10 @@
 | [LLM Security Research](https://github.com/nullinject/llm-security-research) | 通过案例分析提示注入、RAG 与 Agent 的信任边界及模型输出误导风险。 | [案例：角色诱导与虚构证据](https://github.com/nullinject/llm-security-research/blob/main/DeepSeek-Role-Induction-and-Evidence-Fabrication.md) |
 | [MemoryAI Forensics](https://github.com/nullinject/MemoryAI-Forensics-Showcase) | 将 AI 编排与内存取证工具整合为从镜像分析到证据报告的调查流程。 | [界面演示](https://github.com/nullinject/MemoryAI-Forensics-Showcase#product-preview) · [技术设计](https://github.com/nullinject/MemoryAI-Forensics-Showcase/blob/main/Technical_Design.md) |
 | [ShadowProbe](https://github.com/nullinject/shadowprobe) | 从主机快照中识别安全产品，并展示识别置信度与证据链。 | [启动指南](https://github.com/nullinject/shadowprobe#启动方式) |
-| [CPR Excel Companion](https://github.com/nullinject/cpr-excel-companion) | 为官方 CPR 3.16.0 提供实验性 Excel 协议桥接与中间件插件。 | [下载版本](https://github.com/nullinject/cpr-excel-companion/releases/latest) · [安装说明](https://github.com/nullinject/cpr-excel-companion#下载与安装) |
+| [CPR Excel Companion](https://github.com/nullinject/cpr-excel-companion) | 在单一 CPR 插件进程中集成 Excel 协议转换、附件上传与路由管理，兼容 CPR `>=3.18.2, <3.19.0`。 | [发布版本](https://github.com/nullinject/cpr-excel-companion/releases) · [安装与迁移](https://github.com/nullinject/cpr-excel-companion#安装与迁移) |
 | [ShiftPaw · 班次喵](https://github.com/nullinject/ShiftPaw) | 用 macOS 桌宠、班次倒计时与系统通知帮助跟踪排班和交接提醒。 | [版本发布](https://github.com/nullinject/ShiftPaw/releases/latest) · [运行指南](https://github.com/nullinject/ShiftPaw#从源码运行) |
 
-MemoryAI Forensics 为公开展示仓库，完整实现位于私有仓库；CPR Excel Companion 为实验性项目，适用范围与已知边界见项目文档。
+MemoryAI Forensics 为公开展示仓库，完整实现位于私有仓库；CPR Excel Companion 为实验性项目，无需独立桥接服务；安装与迁移前请核对对应版本的文档、适用范围与已知边界。
 
 ## 研究笔记
 
